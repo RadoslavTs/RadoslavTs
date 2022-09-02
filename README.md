@@ -1,11 +1,9 @@
 ## Hi there, I'm Radoslav <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24px" height="24px">
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=RadoslavTs)
-[![Years Badge](https://badges.pufler.dev/years/RadoslavTs)](https://badges.pufler.dev)
-
 [![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/bleechexplorer/) 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rtsepenishev/) 
 [![GitHub](https://img.shields.io/badge/-Github-000000?style=flat-square&logo=Github&logoColor=white)](https://github.com/RadoslavTs)
+
 
 ##
 
