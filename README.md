@@ -8,7 +8,7 @@
 ##
 
 - 🌱 I’m currently learning Python
-- 🥅 2022 Goals: Advance Python knowledge so I can step up and start learning ML and AI
+- 🥅 2023 Goals: Get some AI and ML going.
 - ⚡ Fun fact: I love coding and gaming
 - 💻 I love building cool stuff
 - 💬 Ask me about anything! I am happy to help
